@@ -21,3 +21,6 @@ Uses Strapi to power the CMS backend and PSQL & GraphQL to feed information to t
     npm run development
 
 ### Front End
+
+The front-end Next.js application can be found here:
+https://github.com/krynv/strapi-real-estate-backend
