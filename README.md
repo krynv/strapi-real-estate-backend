@@ -14,6 +14,7 @@ Uses Strapi to power the CMS backend and PSQL & GraphQL to feed information to t
     CREATE DATABASE "strapi-real-estate";
 
 3.  CD into the project directory
+    
     cd ./strapi-real-estate
 
 4.  Run Dev
