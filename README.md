@@ -10,17 +10,17 @@ Uses Strapi to power the CMS backend and PSQL & GraphQL to feed information to t
 
 1.  Make sure PSQL is running
 2.  Create a database named `strapi-real-estate`
-
-    CREATE DATABASE "strapi-real-estate";
-
+```
+CREATE DATABASE "strapi-real-estate";
+```
 3.  CD into the project directory
-    
-    cd ./strapi-real-estate
-
+```    
+cd ./strapi-real-estate
+```
 4.  Run Dev
-
-    npm run development
-
+```
+npm run develop
+```
 ### Front End
 
 The front-end Next.js application can be found here:
