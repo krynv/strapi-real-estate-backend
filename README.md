@@ -24,4 +24,4 @@ npm run develop
 ### Front End
 
 The front-end Next.js application can be found here:
-https://github.com/krynv/strapi-real-estate-backend
+https://github.com/krynv/strapi-real-estate-frontend
